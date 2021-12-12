@@ -1,4 +1,5 @@
-use Mix.Config
+import Config
+
 # config :advent_of_code, AdventOfCode.Input,
 #   advent_of_code_session_cookie: "session=..."
 
